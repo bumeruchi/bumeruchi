@@ -29,6 +29,3 @@
   <img src="https://img.shields.io/badge/GitHub%20Desktop-24292e?style=for-the-badge&logo=github-desktop&logoColor=white" />
 </div>
 
-## 📫 Connect with Me
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
